@@ -1,6 +1,6 @@
 /*
- * Vencord, a Discord client mod
- * Copyright (c) 2025 Vendicated and contributors
+ * Orbitcord, a Discord client mod
+ * Copyright (c) 2026 Equicord and contributors
  * SPDX-License-Identifier: GPL-3.0-or-later
  */
 

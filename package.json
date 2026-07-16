@@ -1,5 +1,5 @@
 {
-    "name": "equicord",
+    "name": "Orbitcord",
     "private": "true",
     "version": "1.14.13.1",
     "description": "The other cutest Discord client mod",
@@ -12,7 +12,7 @@
         "url": "git+https://github.com/Equicord/Equicord.git"
     },
     "license": "GPL-3.0-or-later",
-    "author": "Equicord",
+    "author": "Orbitcord",
     "scripts": {
         "build": "pnpm depCheck && node --require=./scripts/suppressExperimentalWarnings.js scripts/build/build.mjs",
         "buildStandalone": "pnpm build --standalone",
